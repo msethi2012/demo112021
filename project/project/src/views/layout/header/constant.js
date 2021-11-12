@@ -1,0 +1,3 @@
+export const HEADER_START = 'HEADER_START';
+export const HEADER_SUCCESS = 'HEADER_SUCCESS';
+export const HEADER_FAILURE = 'HEADER_FAILURE';
